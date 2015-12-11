@@ -2,12 +2,14 @@ Introduction
 ============
 
 compiler-craft is a project intend to demostrate how a compiler is constructed.
-And there will be several examples included.
+And there will be a bunch of examples demostrated.
 
 Infrastructure
 ==============
 
 * Source Tree Infrastructure::
+
+.. code-block::
 
     .
     ├── doc

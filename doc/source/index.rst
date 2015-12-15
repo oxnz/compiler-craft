@@ -6,6 +6,26 @@
 Compiler-Craft
 ==============
 
+chap1:
+    overview
+        brief intro
+        infrastructure
+        transform:
+            front end
+            optimizer
+            backend
+        summary and future
+    lexer
+    parser
+    middle presentation
+    code generation
+    optmization
+        variable optimization
+    flow chart analysis
+    instruction selection
+    instruction schedule
+    register dispatch
+
 Contents:
 
 .. toctree::
@@ -16,6 +36,7 @@ Contents:
    chap2
    chap3
    chap4
+   chapn
    test
 
 Indices and tables

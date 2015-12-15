@@ -1,11 +1,12 @@
 Lex Analysis
 ============
 
-In this chapter, we will demostrate the ``cat(1)`` utility in Unix system.
+In this chapter, we will write several unix system utilities to demostrate the ``lex(1)`` usage.
 
-.. code-block:: lex
+cat
+---
 
-    %%
+wc
+--
 
-    {LINE} { ++nline; }
-    {WORD} { ++nword; nchar += yyleng; }
+
